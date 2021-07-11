@@ -1,4 +1,4 @@
-# EmoS-peech
+# EmoSpeech
 
 Speech is the most natural way of interaction between humans. Speech based devices
 are used in our daily lives and are a boon for people with speech related disabilities.
